@@ -1,11 +1,11 @@
 [[entries]]
-title = "rap-lyrics"
+title = "rap lyrics"
   [entries.post_list]
   show_more = true
-  section = "posts"
+  section = "lyrics"
 
 [[entries]]
-title = "show-scripts"
+title = "show scripts"
   [entries.post_list]
   section = "scripts"
 

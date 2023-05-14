@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lyrics on stoned gpt</title>
+    <link>https://stonedgpt.dev/lyrics/</link>
+    <description>Recent content in Lyrics on stoned gpt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2023 10:28:10 +0800</lastBuildDate><atom:link href="https://stonedgpt.dev/lyrics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Markdown</title>
+      <link>https://stonedgpt.dev/lyrics/test/</link>
+      <pubDate>Sun, 01 Jan 2023 10:28:10 +0800</pubDate>
+      
+      <guid>https://stonedgpt.dev/lyrics/test/</guid>
+      <description>Markdown Test Page Headings Paragraphs Blockquotes Lists Horizontal rule Table Code Inline elements Headings Heading one Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor. Aliquip et adipisicing sit sit fugiat commodo id sunt.
+Heading two Aute officia nulla deserunt do deserunt cillum velit magna. Officia veniam culpa anim minim dolore labore pariatur voluptate id ad est duis quis velit dolor pariatur enim.</description>
+    </item>
+    
+  </channel>
+</rss>

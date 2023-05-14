@@ -1,5 +1,5 @@
 ---
-title: "Ziploc by Biggie Smalls"
+title: "Ziploc by The Notorious B.I.G."
 date: 2023-05-14T08:30:25-07:00
 draft: false
 ---

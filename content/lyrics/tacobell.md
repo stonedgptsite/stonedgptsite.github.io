@@ -1,5 +1,5 @@
 ---
-title: "Taco Bell by Biggie Smalls"
+title: "Taco Bell by The Notorious B.I.G."
 date: 2023-05-14T08:36:02-07:00
 draft: false
 ---

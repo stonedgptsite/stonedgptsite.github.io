@@ -2,29 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andrewhearin.github.io/stoned-gpt/posts/raps/donuts/</loc>
+    <loc>https://stonedgpt.dev/posts/raps/donuts/</loc>
     <lastmod>2023-05-14T08:23:21-07:00</lastmod>
   </url><url>
-    <loc>https://andrewhearin.github.io/stoned-gpt/posts/raps/midgets/</loc>
+    <loc>https://stonedgpt.dev/posts/raps/midgets/</loc>
     <lastmod>2023-05-14T08:55:19-07:00</lastmod>
   </url><url>
-    <loc>https://andrewhearin.github.io/stoned-gpt/posts/</loc>
+    <loc>https://stonedgpt.dev/posts/</loc>
     <lastmod>2023-05-14T08:55:19-07:00</lastmod>
   </url><url>
-    <loc>https://andrewhearin.github.io/stoned-gpt/posts/raps/mcdonalds/</loc>
+    <loc>https://stonedgpt.dev/posts/raps/mcdonalds/</loc>
     <lastmod>2023-05-14T08:50:24-07:00</lastmod>
   </url><url>
-    <loc>https://andrewhearin.github.io/stoned-gpt/posts/raps/tacobell/</loc>
+    <loc>https://stonedgpt.dev/posts/raps/tacobell/</loc>
     <lastmod>2023-05-14T08:36:02-07:00</lastmod>
   </url><url>
-    <loc>https://andrewhearin.github.io/stoned-gpt/posts/raps/ziploc/</loc>
+    <loc>https://stonedgpt.dev/posts/raps/ziploc/</loc>
     <lastmod>2023-05-14T08:30:25-07:00</lastmod>
   </url><url>
-    <loc>https://andrewhearin.github.io/stoned-gpt/</loc>
+    <loc>https://stonedgpt.dev/lyrics/</loc>
+    <lastmod>2023-01-01T10:28:10+08:00</lastmod>
+  </url><url>
+    <loc>https://stonedgpt.dev/lyrics/test/</loc>
+    <lastmod>2023-01-01T10:28:10+08:00</lastmod>
+  </url><url>
+    <loc>https://stonedgpt.dev/</loc>
     <lastmod>2022-08-25T21:30:04+08:00</lastmod>
   </url><url>
-    <loc>https://andrewhearin.github.io/stoned-gpt/categories/</loc>
+    <loc>https://stonedgpt.dev/categories/</loc>
   </url><url>
-    <loc>https://andrewhearin.github.io/stoned-gpt/tags/</loc>
+    <loc>https://stonedgpt.dev/tags/</loc>
   </url>
 </urlset>
