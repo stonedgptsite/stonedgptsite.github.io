@@ -29,9 +29,9 @@
     ordered = false
 
 [params]
-    description = "A place to store the sometimes ridiculous generated responses by ChatGPT/DoAnythingNow(DAN), unfiltered and unedited" 
+    description = "A collection of ChatGPT responses that made me laugh, unfiltered and unedited" 
   [params.theme_config]
     appearance = "light"
     back_home_text = ".."
-    date_format = "2006-01-02"
+    date_format = ""
     show_description = true
