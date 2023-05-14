@@ -1,0 +1,4 @@
+baseURL = 'https://stonedgpt.dev'
+languageCode = 'en-us'
+title = 'stoned gpt'
+theme = 'nostyleplease'
