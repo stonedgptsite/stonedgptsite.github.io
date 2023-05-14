@@ -29,7 +29,7 @@
     ordered = false
 
 [params]
-    description = "A collection of ChatGPT responses I've gotten that made me laugh, unfiltered and unedited" 
+    description = "an ongoing collection of unfiltered and unedited ChatGPT responses that made me laugh" 
   [params.theme_config]
     appearance = "light"
     back_home_text = ".."
