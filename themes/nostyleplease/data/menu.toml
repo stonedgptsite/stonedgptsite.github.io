@@ -12,7 +12,3 @@ title = "scripts"
 [[entries]]
 title = "rss"
 url = "index.xml"
-
-[[entries]]
-title = "contact"
-url = "mailto:mail@stonedgpt.dev"

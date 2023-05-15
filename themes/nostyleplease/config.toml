@@ -35,7 +35,3 @@
     back_home_text = ".."
     date_format = ""
     show_description = true
-  [[params.links.developer]]
-      url = "mailto:foo@bar.com"
-      name = "Mail me"
-      weight = 4

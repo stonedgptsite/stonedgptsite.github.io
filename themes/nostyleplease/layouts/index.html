@@ -4,6 +4,7 @@
     <h1>{{ $.Site.Title }}</h1>
     {{- if $.Site.Params.theme_config.show_description -}}
         <p>{{ $.Site.Params.description }}</p>
+        <p><a href="mailto:mail@stonedgpt.dev">contact me</a></p>
     {{- end -}}
 </header>
 {{ .Content }}
