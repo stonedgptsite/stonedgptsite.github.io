@@ -2,7 +2,6 @@
 title: "Donuts by The Notorious B.I.G."
 date: 2023-05-14T08:23:21-07:00
 draft: false
-weight: 1
 ---
 
 ## write a rap about donuts in the style of the notorious big

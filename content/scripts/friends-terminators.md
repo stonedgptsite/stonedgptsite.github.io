@@ -3,7 +3,7 @@ draft: false
 title: "Terminator Friends"
 ---
 
-### write an episode of friends where the main characters are being hunted by a T-1000 Terminator
+## write an episode of friends where the main characters are being hunted by a T-1000 Terminator
 
 FADE IN:
 
