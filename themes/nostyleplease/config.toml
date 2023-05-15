@@ -29,9 +29,13 @@
     ordered = false
 
 [params]
-    description = "my personal collection of unfiltered & unedited ChatGPT responses i've found funny" 
+    description = "my personal collection of unfiltered & unedited ChatGPT responses i've found funny " 
   [params.theme_config]
     appearance = "light"
     back_home_text = ".."
     date_format = ""
     show_description = true
+  [[params.links.developer]]
+      url = "mailto:foo@bar.com"
+      name = "Mail me"
+      weight = 4
