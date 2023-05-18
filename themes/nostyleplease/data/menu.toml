@@ -1,4 +1,9 @@
 [[entries]]
+title = "misc"
+  [entries.post_list]
+  section = "misc"
+
+[[entries]]
 title = "lyrics"
   [entries.post_list]
   show_more = true
