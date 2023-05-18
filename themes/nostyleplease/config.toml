@@ -29,7 +29,7 @@
     ordered = false
 
 [params]
-    description = "Brand Stupidty and TV Mashup ChatGPT Responses" 
+    description = "Selected Brand Stupidty and TV Mashup ChatGPT Responses" 
   [params.theme_config]
     appearance = "light"
     back_home_text = ".."
